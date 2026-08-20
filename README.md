@@ -1,6 +1,6 @@
 # Hey, I'm Arjay 👋
 
-I spent years building and running businesses before I decided to start building the tools I wish I'd had back then. Now I'm an aspiring full-stack developer, learning by shipping small, useful things.
+I spent years building and running businesses before I decided to start building the tools I wish I'd had back then. Now I'm an Independent Web Developer — specialized in Rapid Prototyping, API Integrations & Business Tools.
 
 ## 🧭 Where I come from
 
