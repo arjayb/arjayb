@@ -1,29 +1,32 @@
-# Hey, I'm Arjay 👋
+# Hi, I'm Arjay
 
-I spent years building and running businesses before I decided to start building the tools I wish I'd had back then. Now I'm an Independent Web Developer — specialized in Rapid Prototyping, API Integrations & Business Tools.
+Web Developer / Freelancer. I build small, focused web apps — usually
+vanilla JS, no backend unless the project actually needs one.
 
-## 🧭 Where I come from
+📫 [arjayb.fb@gmail.com](mailto:arjayb.fb@gmail.com)
 
-Before code, my toolkit was:
-- **Systems design** — designing how businesses actually run
-- **Sales** — understanding what people need before they know how to ask for it
-- **Training** — breaking things down so anyone can learn them
-- **Talent acquisition** — finding and building the right teams
+---
 
-That background shapes how I build software: practical, user-first, no-frills — tools that solve a real problem someone actually had.
+## Projects
 
-## 🌍 A bit more about me
+| Project | What it does | Stack |
+|---|---|---|
+| **[RemitCompare](https://github.com/arjayb/RemitCompare)** | Compares live remittance provider rates against the mid-market rate | Vanilla JS, live FX API |
+| **[BudgetFX](https://github.com/arjayb/BudgetFX)** | Multi-currency budget ledger with live conversion, saved in the browser | Vanilla JS, `localStorage`, live FX API |
+| **[RateAlert](https://github.com/arjayb/RateAlert)** | Currency tracker with a live sparkline and threshold alerts | Vanilla JS, SVG, Notifications API |
+| **[OrbitConnect](https://github.com/arjayb/OrbitConnect)** | Pulls a developer's GitHub + npm activity into one profile | Vanilla JS, GitHub + npm APIs |
+| **[OrbitOrg](https://github.com/arjayb/OrbitOrg)** | Any GitHub organization's repos, charted as an orbit | Vanilla JS, SVG |
+| **[OrbitStats](https://github.com/arjayb/OrbitStats)** | Commit activity, language mix, and top contributors for a repo | Vanilla JS, SVG |
+| **[Orbit](https://github.com/arjayb/Orbit-a-GitHub-profile-explorer)** | The original — any GitHub profile as an orbit of its repos | Vanilla JS, SVG |
 
-Global exposure across industries and teams, now channeling that into full-stack development — currently exploring JavaScript, APIs, and building small standalone web tools.
+Each one's a live, working demo, not a mockup — the README in each repo
+goes into the stack, the data source, and what it doesn't do yet.
 
-## 🔨 What I'm building
+## Notes on how I build
 
-- **[Orbit](https://github.com/arjayb/Orbit-a-GitHub-profile-explorer)** — explore any GitHub profile as an interactive orbit of their repos
-- **[Rate Board](https://github.com/arjayb/Rate-Board-Live-Currency-Converter)** — live currency converter, no backend required
-- **[Digital Barangay App](https://github.com/arjayb/Digital-Barangay-App)** — a tool for local community/barangay use
-- **[PDF Resizer](https://github.com/arjayb/PDF-resizer)** — a simple utility to resize PDFs
-- **[Todo List App](https://github.com/arjayb/todo-list-app)** — the classic, done my way
+Most of these run entirely client-side — no build step, nothing to
+deploy but static files. Where a project relies on estimated or modeled
+data instead of a real API (RemitCompare's provider fees, for example),
+that's called out plainly in the README rather than left implicit.
 
-## 📫 Let's connect
-
-Open to feedback, collabs, or just talking shop about building useful things.
+Open to freelance work — email above is the best way to reach me.
