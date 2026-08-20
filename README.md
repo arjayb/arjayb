@@ -1,32 +1,22 @@
 # Hi, I'm Arjay
 
-**Independent Web Developer — Rapid Prototyping, API Integrations & Business Tools**
+**Independent Web Developer — Rapid Prototyping & Full-Stack Systems**
 
-I build focused web applications and increasingly full-stack systems — from browser-first tools to deployed applications with authentication, APIs, databases, role-based workflows and real-world business use cases.
+I rapidly turn business ideas and operational workflows into working web applications — from browser-based prototypes to deployed full-stack systems with APIs, authentication, databases, role-based access, and operational dashboards.
 
 📫 [arjayb.fb@gmail.com](mailto:arjayb.fb@gmail.com)
 
 ---
 
-## Featured Project — Digital Barangay
+## Featured Work — Full-Stack Service Platform
 
-**A deployed full-stack resident and admin portal for barangay services.**
+A reusable approach for rapidly turning real-world workflows into deployable web applications. The architecture combines responsive interfaces, APIs, authentication, persistent data, role-based workflows, and operational dashboards.
+
+### Digital Barangay — One Iteration
 
 **[Live Demo](https://arjayb.github.io/Digital-Barangay-App/)** · **[Frontend Repository](https://github.com/arjayb/Digital-Barangay-App)** · **[Backend Repository](https://github.com/arjayb/digital-barangay-backend)**
 
-Residents can:
-- Register and authenticate securely
-- Submit barangay document requests
-- Receive backend-generated tracking numbers
-- Report non-emergency community concerns
-- Track request and concern status
-- View barangay officials and notices
-
-Staff can:
-- Authenticate through a protected admin portal
-- Review resident document requests and concerns
-- Update workflow statuses and notes
-- Manage the operational side of the resident service portal
+Digital Barangay is one working implementation of this approach, adapted for local government services. It demonstrates resident registration, authentication, document requests, community concerns, administrative workflows, persistent PostgreSQL data, and live deployment.
 
 ### Architecture
 
@@ -51,7 +41,7 @@ Uploads -> Cloudinary
 
 **Stack:** HTML/CSS/JavaScript · Node.js · Express · Prisma · PostgreSQL/Neon · JWT · Render · GitHub Pages · Cloudinary
 
-This is the strongest current demonstration of my ability to take a browser-based concept through **frontend → API → authentication → database → role-based workflows → deployment**.
+**What this demonstrates:** the ability to take a workflow from rapid prototype through frontend, API, authentication, database, role-based operations and deployment.
 
 ---
 
@@ -69,9 +59,11 @@ This is the strongest current demonstration of my ability to take a browser-base
 
 ## How I Build
 
-I use the simplest architecture that fits the product. Client-side applications stay lightweight when a backend is unnecessary. When the product requires persistent data, authentication, role separation or operational workflows, I build beyond the browser and connect the pieces into a deployed system.
+**Rapid prototyping is the starting point, not the finish line.** I use it to validate ideas and workflows quickly, then add the engineering depth the product actually requires: APIs, persistent data, authentication, role separation, integrations, and deployment.
 
 I use AI-assisted development as part of the workflow, but the goal is shipped software that can be inspected, tested, deployed and explained — not code generated for its own sake.
+
+I use the simplest architecture that fits the product. Client-side applications stay lightweight when a backend isn't necessary. When the product requires persistent data, authentication, role separation or operational workflows, I build beyond the browser and connect the pieces into a deployable system.
 
 The repositories document the architecture, deployment model, data sources and current limitations rather than presenting prototypes as finished products.
 
